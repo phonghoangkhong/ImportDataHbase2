@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2986a27-9ffb-4c55-91fa-f07fa71f422c" name="Default Changelist" comment="" />
+    <list default="true" id="b2986a27-9ffb-4c55-91fa-f07fa71f422c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/hbase/simple/ReadData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hbase/simple/ReadData.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -174,6 +179,7 @@
       <workItem from="1587614355126" duration="3612000" />
       <workItem from="1587705433949" duration="2424000" />
       <workItem from="1587720114895" duration="1615000" />
+      <workItem from="1587777626935" duration="545000" />
     </task>
     <servers />
   </component>
